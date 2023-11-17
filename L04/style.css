@@ -1,0 +1,78 @@
+html {
+    background-color: #E6CDB5
+    
+}
+
+#intro1 {
+    position: absolute;
+    height: 50px;
+    top: 10px;
+    left: 0px;
+    width: 200px;
+}
+
+#intro2 {
+    position: absolute;
+    height: 50px;
+    top: 10px;
+    left: 0px;
+    width: 200px;
+}
+
+#intro3 {
+    position: absolute;
+    height: 50px;
+    top: 10px;
+    left: 0px;
+    width: 200px;
+}
+
+
+#middle1 {
+   position: absolute;
+    height: 50px;
+    top: 10px;
+    left: 380px;
+    width: 100px;
+}
+
+#middle2 {
+   position: absolute;
+    height: 50px;
+    top: 10px;
+    left: 380px;
+    width: 100px;
+}
+
+#middle3 {
+   position: absolute;
+    height: 50px;
+    top: 10px;
+    left: 380px;
+    width: 100px;
+}
+
+
+#outro1 {
+   position: absolute;
+    height: 50px;
+    top: 10px;
+    right: 0px;
+    
+}
+
+#outro2 {
+   position: absolute;
+    height: 50px;
+    top: 10px;
+    right: 0px;
+  
+}
+
+#outro3 {
+    position: absolute;
+    height: 50px;
+    top: 10px;
+    right: 0px;
+    
+}
